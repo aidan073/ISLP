@@ -1,0 +1,1 @@
+Repo for implementing and experimenting with exercises from the [ISLP]{https://www.statlearning.com/} textbook.
